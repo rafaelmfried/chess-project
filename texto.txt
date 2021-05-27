@@ -1,0 +1,12 @@
+peao
+torre
+cavalo
+bispo
+rainha
+rei
+
+peao -> +8 casa caso o round seja diferente de 0
+peao -> +8 +16 casa caso o round seja 0
+torre -> +18 +16 +32 +64 +128 +256 +512
+torre -> +1 +2 +3 +4 +5 +6 +7
+cavalo -> 
